@@ -6,7 +6,7 @@ const Contact = () => {
     <div>
        <div className='text-center'>
             <h1 className='text-5xl capitalize text-purple-600'>Would you like us to reach out?</h1>
-            <h6 className='titlecase text-purple-700 text-2xl'>Please fill the form under this titles</h6>
+            <h6 className='titlecase text-black text-2xl'>Please fill the form under this titles</h6>
        </div>
        <div className='grid grid-cols-2 gap-5 ml-5 mt-20'>
           <div className='mt-10 text-3xl'>
